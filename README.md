@@ -12,7 +12,7 @@ IMPORTANT: Disable AV [Anti-Virus] to get the best performance. It is also to pr
 
 🔥 Quick to use, User-Friendly GUI.
 
-=-LINK-= 
+=-LINK-= https://github.com/TheMan0175/Firefluxx-Grabber.git
 
 -=======-
 
